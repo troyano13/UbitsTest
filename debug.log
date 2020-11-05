@@ -1,0 +1,12 @@
+[1104/113409.482:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: La longitud del registro de información especificado no coincide con la longitud que se requiere para la clase de información especificada. (0xc0000004)
+[1104/113409.571:ERROR:file_io_win.cc(162)] CreateFile C:\Users\PC1\AppData\Local\Temp\scoped_dir8376_1784612387\Crashpad\settings.dat: El sistema no puede encontrar el archivo especificado. (0x2)
+[1104/115719.537:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1104/145052.692:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[1104/145052.776:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[1104/145052.777:ERROR:process_info.cc(551)] ReadProcessData failed
+[1104/145100.714:ERROR:file_io_win.cc(162)] CreateFile C:\Users\PC1\AppData\Local\Temp\scoped_dir7548_253420560\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[1104/145100.716:ERROR:file_io_win.cc(171)] CreateFile C:\Users\PC1\AppData\Local\Temp\scoped_dir7548_253420560\Crashpad\reports\0f534aa4-030a-4b6c-81fd-e5e08813450a.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[1104/145100.716:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1104/151523.289:ERROR:file_io_win.cc(171)] CreateFile C:\Users\PC1\AppData\Local\Temp\scoped_dir12816_2051637382\Crashpad\reports\ff63f3ed-4199-48af-bcb4-d128fa5ce2c5.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[1104/151523.290:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1104/212132.890:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
